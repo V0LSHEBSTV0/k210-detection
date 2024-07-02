@@ -1,0 +1,6 @@
+/datasets
+/out
+/train/__pycache__
+/train/detector/yolo/__pycache__
+/train/detector/yolo/backend/__pycache__
+/train/utils/__pycache__
